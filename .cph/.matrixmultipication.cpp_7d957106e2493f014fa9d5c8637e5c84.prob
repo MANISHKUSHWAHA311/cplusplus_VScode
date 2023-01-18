@@ -1,0 +1,1 @@
+{"name":"Local: matrixmultipication","url":"c:\\Users\\HP\\OneDrive\\Desktop\\c++ vs\\matrixmultipication.cpp","tests":[{"id":1642411648849,"input":"3 3 \n12 7 3\n4 5 6\n7 8 9\n5 8 1 2\n6 7 3 0 \n4 5 9 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\c++ vs\\matrixmultipication.cpp","group":"local","local":true}

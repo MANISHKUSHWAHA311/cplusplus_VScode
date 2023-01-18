@@ -1,0 +1,33 @@
+4#include<iostream>
+using namespace std;
+int main ()
+{
+    int a,b,c;
+    cin>>a;
+    cin>>b;
+    cin>>c;
+    if(a>b)
+    {
+        if(a>c){
+            cout<<a<<endl;
+        }
+        else
+        {
+            cout<<b<<endl;
+        }
+    }
+    else
+    {
+       if(b>c){
+           cout<<b<<endl;
+
+       }
+       else
+       {
+           cout<<c<<endl;
+
+       }
+       return a,b,c;
+    }
+}
+
